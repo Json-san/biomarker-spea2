@@ -131,12 +131,7 @@ biomarker-spea2/
 1. Zitzler, E., Laumanns, M., & Thiele, L. (2001). *SPEA2: Improving the Strength Pareto Evolutionary Algorithm.*
 2. Golub, T.R., et al. (1999). *Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring.* Science.
 
----
-
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines académicos y de investigación.
 
 ---
 
-*SPEA2 Biomarker Optimizer v1.0 - Diciembre 2024*
+*SPEA2 Biomarker Optimizer v1.0*
